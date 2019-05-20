@@ -210,6 +210,7 @@
     <div id="about">
       <h3>My name is Zachary Scherer and I am a student at Centennial High School. I am a part of the Westada school district Computer Science CTE program, and
       in this program I build websites using HTML, CSS, Javascript family, PHP, and SQL. I also develop other programs using bash, java, and python.</h3>
+      <h4>This is being added</h4>
     </div>
   </div>
 </div>
